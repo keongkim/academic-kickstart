@@ -65,7 +65,6 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "keongkim@cuhk.edu.hk"
   address = "950 Cheng Yu Tung Building, Chinese University of Hong Kong, Shatin, H.K."
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+85239439284"
 
 
